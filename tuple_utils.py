@@ -50,5 +50,7 @@ def print_items_with_index(items: Iterable):
     :param items: A tuple or a list
     :return: None
     """
-    pass  # remove pass statement and implement me
+    pass
+
+# remove pass statement and implement me
 
